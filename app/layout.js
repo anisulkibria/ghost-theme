@@ -10,7 +10,7 @@ const roboto_slab = Roboto_Slab({ subsets: ['latin'], weight: ["100", "300", "40
 
 export const metadata = {
   title: 'Theme Fantome',
-  description: 'Showcase of Custom Ghost CMS Themes from Anisul Kibria',
+  description: 'Showcase of Custom Ghost CMS Themes, Developed by Anisul Kibria',
 }
 
 export default function RootLayout({ children }) {

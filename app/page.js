@@ -38,7 +38,7 @@ export default function Home() {
 	<section className="main-content">
 		<div className="container">
 			<h1 className="text-center mt-5 text-sucess">Showcase of Custom Ghost Themes</h1>
-			<h2 className="text-center mt-2">Developded by Anisul Kibria</h2>
+			<h2 className="text-center mt-2">Developed by Anisul Kibria</h2>
 			<div className="posts-block-big">
 				<div className="row">
 					<div className="col-md-6 content-item">
