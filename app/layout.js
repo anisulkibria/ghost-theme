@@ -9,7 +9,7 @@ const roboto = Roboto({ subsets: ['latin'], weight: ["100", "300", "400", "500",
 const roboto_slab = Roboto_Slab({ subsets: ['latin'], weight: ["100", "300", "400", "500", "700", "900"] })
 
 export const metadata = {
-  title: 'Theme Fantome',
+  title: 'Ghost Theme',
   description: 'Showcase of Custom Ghost CMS Themes, Developed by Anisul Kibria',
 }
 

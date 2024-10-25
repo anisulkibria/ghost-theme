@@ -8,14 +8,14 @@ export default function Home() {
 	<header className="header">
 		<div className="container">
 			<nav className="navbar navbar-expand-lg navbar-light">
-				<a className="navbar-brand dual-logo dark-logo" href="https://themefantome.com/" title="Theme Fantome">
-					<Image width={94} height={50} className="logo-image align-top" src="/img/Theme-Fantome-white.png" alt="Theme Fantome" />
+				<a className="navbar-brand dual-logo dark-logo" href="https://ghost-theme.com/" title="Ghost Theme">
+					<Image width={200} height={100} className="logo-image align-top" src="/img/logo-white.svg" alt="Ghost Theme" />
 				</a>
-				<a className="navbar-brand dual-logo light-logo" href="https://themefantome.com/" title="Theme Fantome">
-					<Image width={94} height={50} className="logo-image align-top" src="/img/Theme-Fantome-Black.png" alt="Theme Fantome" />
+				<a className="navbar-brand dual-logo light-logo" href="https://ghost-theme.com/" title="Ghost Theme">
+					<Image width={200} height={100} className="logo-image align-top" src="/img/logo-black.svg" alt="Ghost Theme" />
 				</a>
-				<a className="navbar-brand single-logo" href="https://themefantome.com/" title="Theme Fantome">
-					<Image width={94} height={50} className="logo-image align-top main-logo" src="/img/Theme-Fantome-Black.png" alt="Theme Fantome" />
+				<a className="navbar-brand single-logo" href="https://ghost-theme.com/" title="Ghost Theme">
+					<Image width={200} height={100} className="logo-image align-top main-logo" src="/img/logo-black.svg" alt="Ghost Theme" />
 				</a>
 				<button onclick="toggleNavbar()" className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false">
 					<span className="navbar-toggler-icon"></span>
@@ -26,7 +26,7 @@ export default function Home() {
 							<span className="dark-light-toggle-icon" aria-hidden="true"></span>
 						</li>
 						<li className="nav-item dropdown">
-							<a className="nav-link dropdown-toggle" href="https://themefantome.com/#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">•••</a>
+							<a className="nav-link dropdown-toggle" href="https://ghost-theme.com/#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">•••</a>
 							<ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"></ul>
 						</li>
 					</ul>
@@ -37,7 +37,7 @@ export default function Home() {
 
 	<section className="main-content">
 		<div className="container">
-			<h1 className="text-center mt-5 text-sucess">Showcase of Custom Ghost Themes</h1>
+			<h1 className="text-center mt-5 text-sucess">Showcase of Custom Ghost CMS Themes</h1>
 			<h2 className="text-center mt-2">Developed by Anisul Kibria</h2>
 			<div className="posts-block-big">
 				<div className="row">
@@ -154,7 +154,7 @@ export default function Home() {
 					</ul>
 				</div>
 				<div className="text-center small copyright">
-					<p>© 2023 ThemeFantome - All Right Reserved</p> 
+					<p>© 2024 Ghost-theme.com - All Right Reserved</p> 
 				</div>
 			</div>
 		</div>
